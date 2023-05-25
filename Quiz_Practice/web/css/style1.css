@@ -1,0 +1,28 @@
+#contanner{
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20% 1% 20% 1%;
+ }
+ 
+ #option1 h1{
+     font-size: 70px;
+     margin-top: -20px;
+ }
+ 
+ #option1 input{
+     height: 50px;
+     font-size: 25px;
+     width: 250px;
+     background-color: #175344;
+     color:#fff;
+     border-radius: 10px ;
+     margin-top: 10px;
+     margin-left: 25%;
+ }
+ 
+ #option2 iframe{
+     border-radius: 10px;
+ }

@@ -1,0 +1,64 @@
+.head{
+    background: #666666;
+    color: black;
+    border-bottom: 20px; 
+    border-radius: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    
+}
+
+.hh {
+    width: 50%;
+    margin: 20px;
+    margin-left: 5px;
+}
+
+.form_check {
+    margin-right: 20px;
+    
+}
+.modal-body{
+    overflow: hidden;
+    height: 350px;
+}
+.modal-body:hover{
+    overflow-y: auto;
+    
+}
+
+.modal_button{
+   
+    margin-top: 200px;
+}
+
+.footer {
+    background: #9999ff
+}
+
+#true:checked + label::before {
+    background-color: rgb(38, 202, 12);
+  }
+  
+  #false:checked + label::before {
+    background-color: rgb(223, 71, 71);
+  }
+
+  .fa-exclamation-circle {
+    color: red;
+  }
+.fa-check-circle{
+    color: rgb(38, 202, 12);
+}
+.arrow{
+    padding: 25px 15px;
+    background-color: rgb(236, 82, 82);
+    clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+}
+
+.correct_arrow{
+    padding: 25px 15px;
+    background-color: rgb(38, 202, 12);
+    clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+}

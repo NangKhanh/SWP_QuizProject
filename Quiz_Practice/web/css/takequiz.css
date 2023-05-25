@@ -1,0 +1,29 @@
+.head{
+    background: #666666;
+    color: black;
+    border-bottom: 20px; 
+    border-radius: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    
+}
+
+.hh {
+    width: 50%;
+    margin: 20px;
+    margin-left: 5px;
+}
+
+.form_check {
+    margin-right: 20px;
+    
+}
+
+.modal_button{ 
+    margin-top: 200px;
+}
+
+.footer {
+    background: #9999ff
+}
